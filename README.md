@@ -1,4 +1,5 @@
-# Simulasi Data Mikro-Makro & Sistem Persamaan Simultan (SEM) dengan Stata
+# SIMULASI DATA MIKRO-MAKRO & SISTEM PERSAMAAN SIMULTAN (SEM)
+## Eksperimen Monte Carlo Data Sintetis Individu ke Agregat Kab/Kota
 
 ![Stata](https://img.shields.io/badge/Software-Stata_17%2F18-1A476F?style=for-the-badge&logo=stata&logoColor=white)
 ![Data](https://img.shields.io/badge/Dataset-Synthetic_Monte_Carlo_(50k)-2E7D32?style=for-the-badge)
